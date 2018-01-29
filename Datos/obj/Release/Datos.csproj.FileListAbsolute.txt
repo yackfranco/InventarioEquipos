@@ -1,0 +1,8 @@
+D:\Proyectos Programacion\InventarioEquipos\Datos\bin\Release\InventarioEquipos.mdf
+D:\Proyectos Programacion\InventarioEquipos\Datos\bin\Release\InventarioEquipos_log.ldf
+D:\Proyectos Programacion\InventarioEquipos\Datos\bin\Release\Datos.dll.config
+D:\Proyectos Programacion\InventarioEquipos\Datos\bin\Release\Datos.dll
+D:\Proyectos Programacion\InventarioEquipos\Datos\bin\Release\Datos.pdb
+D:\Proyectos Programacion\InventarioEquipos\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+D:\Proyectos Programacion\InventarioEquipos\Datos\obj\Release\Datos.dll
+D:\Proyectos Programacion\InventarioEquipos\Datos\obj\Release\Datos.pdb
